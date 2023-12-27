@@ -32,7 +32,7 @@ cd amex-analyzer
 ```
 ### 2. Add OpenAI API Key as Environment Variable
  - Create a .env file in the `Amex-Analyzer/Backend` directory
- - Set `OPENAI_API_KEY="<your_api_key_here>"`
+ - Set `OPENAI_API_KEY="<your_api_key_here>"` and save
 
 ### 3. Build and Run
  - Run `docker-compose up --build`
