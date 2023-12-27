@@ -2,7 +2,7 @@
 
 
 Upload your Amex statement to our site and have AI Categorize your spending! 
-1. Download your amex statement in csv format from [amex.ca](https://www.americanexpress.com/en-ca/)
+1. Download your amex statement (csv) from [amex.ca](https://www.americanexpress.com/en-ca/)
 2. Upload it to our site
 3. Receive an interactive breakdown of your spending, categorized by AI!
 
