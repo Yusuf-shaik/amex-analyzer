@@ -1,0 +1,17 @@
+[package]
+name = "rust_csv_parser"
+version = "0.1.0"
+edition = "2021"
+
+# Dependencies
+[dependencies]
+actix-web = { version = "^4.4", features = ["http2"] }
+csv = "1.1"
+serde = { version = "1", features = ["derive"] }
+tokio = { version = "1", features = ["full"] }
+openai-api-rs = "2.1.4"
+actix-cors = "0.6.5"
+
+[[bin]]
+name = "rustbin"
+path = "src/main.rs"
